@@ -13,6 +13,7 @@ Welcome to my academic portfolio for CEP146NAA!
 - [ ] Complete all lab assignments
 - [ ] Build a professional portfolio
 - [ ] Collaborate on group projects
+Thanks for the suggestion! I'll work on implementing this after I finish my current branch.
 
 ## Projects
 *This section will be updated as I complete assignments*
